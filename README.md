@@ -3,7 +3,7 @@
 <h1 align="center">✨ Hey, I'm Nandani Aggarwal ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=FF61F6&center=true&vCenter=true&lines=Software+Developer+💻;700%2B+DSA+Problems+🔥;Hackathon+Winner+🏆;Building+Impactful+Tech+🚀;Scooty+Rides+%2B+Cricket+🏍️🏏" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=FF61F6&center=true&vCenter=true&lines=Software+Developer+💻;1000%2B+DSA+Problems+🔥;Hackathon+Winner+🏆;Building+Impactful+Tech+🚀;Scooty+Rides+%2B+Cricket+🏍️🏏" />
 </p>
 
 ---
