@@ -3,7 +3,7 @@
 <h1 align="center">✨ Hey, I'm Nandani Aggarwal ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=FF61F6&center=true&vCenter=true&lines=Software+Developer+💻;Goldman+Sachs+India+Hackathon+2026+Finalist+🏆;1000%2B+DSA+Problems+🔥;5x+Hackathon+Finalist+🏆;Building+Impactful+Tech+🚀;Scooty+Rides+%2B+Cricket+🏍️🏏" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=FF61F6&center=true&vCenter=true&lines=Software+Developer+💻;Goldman+Sachs+India+Hackathon+2026%2B+Finalist+🏆;1000%2B+DSA+Problems+🔥;5x+Hackathon+Finalist+🏆;Building+Impactful+Tech+🚀;Scooty+Rides+%2B+Cricket+🏍️🏏" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ```diff
 + 🎓 CSE (AI) @ IGDTUW
 + 🔥 1000+ DSA Problems Solved
-+ 🏆 Finalist @ Goldman Sachs India Hackathon 2026
++ 🏆 Finalist @ Goldman Sachs India Hackathon
 + 🏆 Rising Star @ Microsoft LEAD Hackathon
 + 🚀 Flipkart GRiD SemiFinalist
 + 💡 Building impactful real-world projects
